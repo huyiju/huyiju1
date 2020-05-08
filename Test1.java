@@ -5,7 +5,7 @@
 public class Test1 {
     public static void main(String[] args) {
       //  User1 u=new User1();
-    	        System.out.println("测试");
+    	        System.out.println("测试222");
 
 
     }
